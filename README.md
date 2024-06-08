@@ -1,10 +1,3 @@
-## Curso Digital: GIT
+# Curso Digital: Git
 
-##Gracvando mudanças no repositorio
-...
-#novo
-## gravando 2
-
-
-....
-##salvando modificações
+## Salvando alterações no Git
